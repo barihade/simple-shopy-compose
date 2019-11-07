@@ -2,7 +2,7 @@
 This is simple Shop PHP & Python Application deployed using Docker Compose.
 
 # Setup
-- Ensure you have Docker installed.
+- Ensure you have Docker & Docker Compose installed.
 - `git clone` this repository.
 - `docker-compose up` or `docker-compose up -d` if you want to run it in background.
 - You can access it, with typing `localhost:5000` on browser address bar.
